@@ -1,1 +1,2 @@
-# dhruv-game-copy
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
